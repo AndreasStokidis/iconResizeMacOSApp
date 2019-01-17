@@ -13,6 +13,7 @@
 		5904ECA121D7F9E0007472EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5904EC9F21D7F9E0007472EE /* Main.storyboard */; };
 		5904ECAD21D7F9E0007472EE /* iconresizeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5904ECAC21D7F9E0007472EE /* iconresizeTests.swift */; };
 		5904ECB821D7F9E0007472EE /* iconresizeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5904ECB721D7F9E0007472EE /* iconresizeUITests.swift */; };
+		5987CCD321F09947000A249F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5987CCD221F09947000A249F /* README.md */; };
 		5990C7A921E51A4B00E53BAF /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 5990C7A821E51A4B00E53BAF /* .gitignore */; };
 		59CC175021E4D3120040BDD0 /* WindowsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59CC174F21E4D3120040BDD0 /* WindowsController.swift */; };
 		59CC175221E4D39F0040BDD0 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59CC175121E4D39E0040BDD0 /* InfoViewController.swift */; };
@@ -51,6 +52,7 @@
 		5904ECB321D7F9E0007472EE /* iconresizeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iconresizeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5904ECB721D7F9E0007472EE /* iconresizeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iconresizeUITests.swift; sourceTree = "<group>"; };
 		5904ECB921D7F9E0007472EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5987CCD221F09947000A249F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5990C7A821E51A4B00E53BAF /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		59CC174F21E4D3120040BDD0 /* WindowsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowsController.swift; sourceTree = "<group>"; };
 		59CC175121E4D39E0040BDD0 /* InfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 		5904EC8D21D7F9D6007472EE = {
 			isa = PBXGroup;
 			children = (
+				5987CCD221F09947000A249F /* README.md */,
 				5990C7A821E51A4B00E53BAF /* .gitignore */,
 				5904EC9821D7F9D7007472EE /* iconresize */,
 				5904ECAB21D7F9E0007472EE /* iconresizeTests */,
@@ -261,6 +264,7 @@
 			files = (
 				5990C7A921E51A4B00E53BAF /* .gitignore in Resources */,
 				5904EC9E21D7F9DF007472EE /* Assets.xcassets in Resources */,
+				5987CCD321F09947000A249F /* README.md in Resources */,
 				59F245DE21DCC53C00971A48 /* Localizable.strings in Resources */,
 				5904ECA121D7F9E0007472EE /* Main.storyboard in Resources */,
 			);
