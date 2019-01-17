@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  iconresize
+
+  Created by akikos on 02/01/2019.
+  Copyright © 2019 medidia. All rights reserved.
+*/
+"Add an image, dragged it\nat rectangle above"="Add an image, dragged it\nat rectangle above";
+"Export" = "Export";
+"Press the button to select the exported folder\nand export the images"="Press the button to select the exported folder\nand export the images";
+
+

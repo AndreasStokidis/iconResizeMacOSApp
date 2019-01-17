@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  iconresize
+
+  Created by akikos on 02/01/2019.
+  Copyright © 2019 medidia. All rights reserved.
+*/
+"Add an image, dragged it\nat rectangle above"="Πρόσθεσε μια εικόμα,\nσύροντας την πάνω στο πλαίσιο";
+"Export" = "Εξαγωγή";
+"rounded rectagle" = "Στρογγυλοποιημένο τετράγωνο";
+"circle" = "Κύκλος";
+"none" = "Κανένα";
+"This is an essential tool for mobile and macOS developers. Resize Your Icon is an app icon maker that resizes app icon to all iOS, macOS and Android icon sizes. With Resize Your Icon, you can create icons for iOS, macOS, Android.\n\nFeatures\n- Generate icons that are required in an iOS, macOS and Android app.\n- Convert the scheme of icons easily (rounded rectangle, circle)."="To Resize Your Icon είναι ένα αναγκαίο εργαλείο για κάθε προγραμματιστη. Με αυτό μπορείτε να αλλάξετε εύκολα μέγεθος και να δημιουργήσετε πολλαπλά εικονίδια σε όλες τις απαιτούμενες διαστάσεις. Μπορείτε πολύ εύκολα, με ένα click, να πάρετε τα εικονίδια που θέλετε για την iOS, macOS ή Android εφαρμογή σας.\n\nΧαρακτηριστικά\n- Υποστήριξη για όλα τα εικονίδια iPhone και iPad, macOS, Android.\n- Αλλαγή του σχήματος στα εικονίδια (στρογγυλοποιημένο τετράγωνο, κυκλικό).";
+"Ιnfo" = "Πληροφορίες";
+"Press the button to select the exported folder\nand export the images"="Πατήστε το κουμπί για να επιλέξετε\nτο φάκελο αποθήκευσης των εικονιδίων";
+"Platform:"="Πλατφόρμα:";
+"Scheme:"="Σχήμα:";
+
